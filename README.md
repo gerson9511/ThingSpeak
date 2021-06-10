@@ -2,7 +2,8 @@
 NodeMCU - DHT11 - YL69 -SENSOR PIR  
 Canal de ThingSpeak
 https://thingspeak.com/channels/1410738
-Contactame 
+**Contactame**
+```
 -[Facebook](https://www.facebook.com/jasan.rhu.3/)
 -[LinkedIn](https://www.linkedin.com/in/gerson-rhu-botelho-000ab81b0/)
 -[Whatsapp](https://wa.link/77op3n)
@@ -11,4 +12,4 @@ Contactame
 -[Twitter](https://twitter.com/RhuGerson)
 -[Mathlab](https://la.mathworks.com/matlabcentral/profile/authors/22598221)
 -[Platzi](https://platzi.com/p/gersonrhu98/)
-
+```
